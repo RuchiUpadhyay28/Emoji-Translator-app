@@ -1,2 +1,1 @@
-# newRep
-Created with CodeSandbox
+The new Emoji Translator app
