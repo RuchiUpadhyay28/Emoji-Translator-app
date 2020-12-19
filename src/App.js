@@ -26,7 +26,7 @@ export default function App() {
     if (userInput in emojiDictionary) {
       setMeaning(emojiDictionary[userInput]);
     } else {
-      setMeaning("Emoji not found in database!!");
+      setMeaning("Sorry! Emoji not found in the database");
     }
   }
   function emojiClickHandler(emoji) {
