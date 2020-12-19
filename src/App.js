@@ -34,6 +34,7 @@ export default function App() {
   }
   return (
     <div className="App">
+      <br></br>
       <h1>Emoji Translator</h1>
       <p>
         <em>Type-in your favourite emoji and find out what they mean..</em>{" "}
